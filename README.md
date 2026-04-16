@@ -21,9 +21,9 @@ This project focuses on building a resume layout using basic HTML without any st
 
 ## 🚀 Live Demo
 
-👉 https://harinimuthu30.github.io/<your-repo-name>/
+👉 https://harinimuthu30.github.io/html-resume/
 
-*(Replace `<your-repo-name>` with your actual repository name)*
+
 
 ---
 
@@ -63,8 +63,7 @@ html-resume/
 
 ## 📬 Contact
 
-* GitHub: https://harinimuthu30.github.io/html-resume/
-
+* GitHub: https://github.com/HariniMuthu30
 ---
 
 ## ⭐ Acknowledgement
